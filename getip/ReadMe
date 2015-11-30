@@ -1,0 +1,3 @@
+get the visitor's ip and recorder the time and ip address into MySql
+
+in MySql database there are three colums : va = 1 , adip = //"visitor's ip address" , time = //"visiting time (a string created by php function date("YmdHis"))"
